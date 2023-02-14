@@ -1,0 +1,19 @@
+{
+  "name": "trpc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^4.24.6",
+    "@trpc/client": "^10.11.1",
+    "@trpc/next": "^10.11.1",
+    "@trpc/react-query": "^10.11.1",
+    "@trpc/server": "^10.11.1"
+  }
+}
